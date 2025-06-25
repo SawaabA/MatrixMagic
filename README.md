@@ -54,7 +54,8 @@ The project is written in **React** and **TypeScript** using **Vite** and **Tail
   ![rref step](./pics/rref%20step%20by%20step.png)
 
 ### Video Demo  
-- [`mm demo github.mp4`](./pics/mm%20demo%20github.mp4) – walkthrough of the MatrixMagic interface and functionality.
+🎥 [Watch the MatrixMagic demo on YouTube](https://youtu.be/Wpa21vfQam8)
+
 
 ---
 
