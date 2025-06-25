@@ -54,7 +54,7 @@ The project is written in **React** and **TypeScript** using **Vite** and **Tail
   ![rref step](./pics/rref%20step%20by%20step.png)
 
 ### Video Demo  
-🎥 [Watch the MatrixMagic demo on YouTube](https://youtu.be/Wpa21vfQam8)
+🎥 [Watch the MatrixMagic demo on YouTube](https://youtu.be/52lHFGvTkTQ)
 
 
 ---
