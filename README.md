@@ -50,3 +50,5 @@ using **Vite** and **Tailwind CSS**.
 2. Run `npm install` to install dependencies.
 3. Use `npm run dev` to start the development server or `npm run build` to create a production build.
 
+## License
+This project is provided for educational purposes.
