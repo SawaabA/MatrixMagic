@@ -50,11 +50,3 @@ using **Vite** and **Tailwind CSS**.
 2. Run `npm install` to install dependencies.
 3. Use `npm run dev` to start the development server or `npm run build` to create a production build.
 
-## Story
-After barely passing linear algebra myself, I ended up teaching the course to at least four groups of friends.
-I used so many specific examples that I figured, "Why not throw a quick site together?"
-There's no fancy framework here—just plain old React&nbsp;18 with TypeScript.
-With the logic working I'm pretty happy about it; building this was a funny little weekend project.
-
-## License
-This project is provided for educational purposes.
